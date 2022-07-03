@@ -1,0 +1,7 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+M,Iran,Iran,HighSchool,G-09,A,IT,F,Mum,15,70,37,44,Yes,Good,Under-7,M
+F,Iran,Iran,lowerlevel,G-02,C,IT,F,Father,2,9,7,55,Yes,Good,Under-7,M
+M,Iran,Iran,lowerlevel,G-02,B,French,S,Mum,20,22,53,13,No,Good,Above-7,L
+M,Iran,Iran,lowerlevel,G-02,B,French,S,Father,10,2,13,53,No,Bad,Above-7,L
+M,Iran,Iran,MiddleSchool,G-08,C,Spanish,S,Mum,27,41,32,61,Yes,Bad,Above-7,M
+M,Iran,Iran,MiddleSchool,G-08,A,Spanish,S,Mum,51,42,12,29,No,Bad,Above-7,M

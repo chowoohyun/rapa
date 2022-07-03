@@ -1,0 +1,12 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+F,SaudiArabia,SaudiArabia,MiddleSchool,G-07,B,Science,F,Father,50,90,37,70,Yes,Good,Under-7,M
+M,SaudiArabia,SaudiArabia,lowerlevel,G-02,B,IT,F,Father,70,12,40,50,Yes,Good,Under-7,H
+M,SaudiArabia,SaudiArabia,lowerlevel,G-02,B,IT,F,Father,7,12,5,3,No,Bad,Above-7,M
+M,SaudiArabia,SaudiArabia,HighSchool,G-11,A,Quran,S,Father,80,80,51,59,Yes,Good,Under-7,H
+M,SaudiArabia,USA,HighSchool,G-11,A,Science,S,Father,23,63,71,89,Yes,Good,Under-7,M
+F,SaudiArabia,USA,HighSchool,G-11,B,Science,S,Father,100,91,98,40,Yes,Bad,Under-7,H
+M,SaudiArabia,USA,HighSchool,G-11,B,Spanish,S,Father,10,51,40,40,No,Bad,Above-7,L
+M,SaudiArabia,USA,HighSchool,G-11,B,English,S,Father,70,50,33,41,No,Bad,Above-7,M
+M,SaudiArabia,USA,HighSchool,G-11,B,Math,S,Father,70,58,73,91,Yes,Bad,Under-7,H
+F,SaudiArabia,SaudiArabia,lowerlevel,G-02,B,French,S,Father,60,70,63,93,Yes,Bad,Under-7,H
+F,SaudiArabia,SaudiArabia,MiddleSchool,G-08,B,Arabic,S,Mum,72,51,42,24,Yes,Bad,Above-7,H

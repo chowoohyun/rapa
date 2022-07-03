@@ -1,0 +1,17 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+M,USA,USA,MiddleSchool,G-08,B,Math,F,Father,19,5,4,1,Yes,Good,Above-7,L
+F,USA,USA,MiddleSchool,G-07,A,Math,F,Father,27,22,22,40,No,Good,Under-7,M
+F,USA,USA,HighSchool,G-12,A,English,F,Mum,65,75,23,80,Yes,Good,Under-7,H
+F,USA,USA,HighSchool,G-12,A,IT,F,Mum,70,69,35,30,Yes,Good,Under-7,H
+M,USA,USA,lowerlevel,G-02,B,IT,F,Father,55,89,40,40,Yes,Good,Under-7,H
+F,KW,USA,HighSchool,G-11,A,Quran,S,Mum,70,80,95,70,Yes,Good,Under-7,H
+F,KW,USA,HighSchool,G-11,A,Quran,F,Mum,60,80,50,40,No,Bad,Under-7,M
+M,Jordan,USA,MiddleSchool,G-07,A,Quran,F,Mum,100,85,85,70,No,Bad,Under-7,M
+M,SaudiArabia,USA,HighSchool,G-11,A,Science,S,Father,23,63,71,89,Yes,Good,Under-7,M
+F,SaudiArabia,USA,HighSchool,G-11,B,Science,S,Father,100,91,98,40,Yes,Bad,Under-7,H
+M,SaudiArabia,USA,HighSchool,G-11,B,Spanish,S,Father,10,51,40,40,No,Bad,Above-7,L
+M,SaudiArabia,USA,HighSchool,G-11,B,English,S,Father,70,50,33,41,No,Bad,Above-7,M
+M,SaudiArabia,USA,HighSchool,G-11,B,Math,S,Father,70,58,73,91,Yes,Bad,Under-7,H
+F,Tunis,USA,HighSchool,G-11,B,French,S,Father,70,50,30,49,Yes,Good,Under-7,M
+F,Jordan,USA,lowerlevel,G-02,B,French,S,Mum,60,82,93,43,No,Bad,Above-7,M
+F,USA,USA,lowerlevel,G-02,B,French,S,Mum,15,52,83,11,Yes,Bad,Under-7,M

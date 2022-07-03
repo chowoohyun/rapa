@@ -1,0 +1,7 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+M,USA,USA,MiddleSchool,G-08,B,Math,F,Father,19,5,4,1,Yes,Good,Above-7,L
+F,USA,USA,MiddleSchool,G-07,A,Math,F,Father,27,22,22,40,No,Good,Under-7,M
+F,USA,USA,HighSchool,G-12,A,English,F,Mum,65,75,23,80,Yes,Good,Under-7,H
+F,USA,USA,HighSchool,G-12,A,IT,F,Mum,70,69,35,30,Yes,Good,Under-7,H
+M,USA,USA,lowerlevel,G-02,B,IT,F,Father,55,89,40,40,Yes,Good,Under-7,H
+F,USA,USA,lowerlevel,G-02,B,French,S,Mum,15,52,83,11,Yes,Bad,Under-7,M

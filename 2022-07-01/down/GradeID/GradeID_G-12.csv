@@ -1,0 +1,12 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+F,KW,KuwaIT,HighSchool,G-12,A,English,F,Mum,70,4,39,90,Yes,Good,Under-7,H
+F,KW,KuwaIT,HighSchool,G-12,A,English,F,Mum,13,80,40,88,Yes,Good,Under-7,H
+F,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,29,39,50,77,Yes,Good,Under-7,M
+F,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,20,14,12,70,No,Bad,Above-7,L
+M,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,39,15,16,50,No,Good,Above-7,L
+F,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,55,90,16,40,No,Bad,Under-7,M
+M,KW,KuwaIT,HighSchool,G-12,A,English,F,Mum,12,50,8,30,No,Bad,Above-7,L
+M,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,13,5,18,19,No,Bad,Above-7,L
+F,KW,KuwaIT,HighSchool,G-12,A,English,F,Father,25,10,19,30,No,Bad,Above-7,M
+F,USA,USA,HighSchool,G-12,A,English,F,Mum,65,75,23,80,Yes,Good,Under-7,H
+F,USA,USA,HighSchool,G-12,A,IT,F,Mum,70,69,35,30,Yes,Good,Under-7,H

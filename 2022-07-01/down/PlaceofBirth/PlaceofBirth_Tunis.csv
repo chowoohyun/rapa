@@ -1,0 +1,10 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+M,Tunis,Tunis,MiddleSchool,G-07,A,Quran,F,Father,10,60,5,20,Yes,Bad,Above-7,L
+M,Tunis,Tunis,MiddleSchool,G-07,A,Quran,S,Father,19,65,50,10,No,Bad,Above-7,L
+M,Tunis,Tunis,MiddleSchool,G-07,A,Quran,S,Father,10,75,55,11,Yes,Good,Under-7,M
+M,Tunis,Tunis,HighSchool,G-11,B,Science,S,Father,70,50,33,40,No,Good,Under-7,M
+M,Tunis,Tunis,lowerlevel,G-02,B,French,S,Mum,80,92,83,43,Yes,Good,Under-7,H
+M,Tunis,Tunis,lowerlevel,G-02,B,French,S,Mum,60,52,23,33,Yes,Bad,Under-7,H
+M,Tunis,Tunis,MiddleSchool,G-08,C,Spanish,S,Mum,27,41,49,14,No,Bad,Under-7,M
+M,Tunis,Tunis,MiddleSchool,G-08,C,Spanish,S,Mum,87,81,42,19,Yes,Good,Under-7,H
+M,Tunis,Tunis,MiddleSchool,G-08,C,Spanish,S,Father,7,61,22,14,No,Bad,Above-7,L

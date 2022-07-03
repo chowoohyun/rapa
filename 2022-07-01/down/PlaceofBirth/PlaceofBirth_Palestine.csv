@@ -1,0 +1,11 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+F,Palestine,Palestine,lowerlevel,G-04,A,Science,F,Mum,90,86,82,74,Yes,Good,Under-7,H
+F,Palestine,Palestine,lowerlevel,G-04,A,Science,S,Mum,62,64,72,84,Yes,Good,Under-7,H
+F,Jordan,Palestine,lowerlevel,G-02,A,French,F,Mum,80,77,63,83,Yes,Good,Under-7,M
+F,Jordan,Palestine,lowerlevel,G-02,A,French,S,Mum,75,85,73,80,Yes,Good,Under-7,M
+M,Jordan,Palestine,MiddleSchool,G-07,A,Biology,F,Mum,78,91,50,40,Yes,Good,Under-7,H
+M,Jordan,Palestine,MiddleSchool,G-07,A,Biology,S,Mum,70,98,54,72,Yes,Good,Under-7,H
+M,Palestine,Palestine,MiddleSchool,G-07,A,Biology,F,Father,88,90,86,81,Yes,Good,Under-7,H
+M,Palestine,Palestine,MiddleSchool,G-07,A,Biology,S,Father,89,92,89,83,Yes,Good,Under-7,H
+M,Palestine,Palestine,MiddleSchool,G-08,A,Geology,F,Father,80,87,74,68,Yes,Good,Under-7,M
+M,Palestine,Palestine,MiddleSchool,G-08,A,Geology,S,Father,85,88,79,70,Yes,Good,Under-7,M

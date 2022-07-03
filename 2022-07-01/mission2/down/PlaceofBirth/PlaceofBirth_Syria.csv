@@ -1,0 +1,7 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+M,Syria,Syria,lowerlevel,G-02,B,French,S,Mum,20,52,23,33,Yes,Good,Above-7,L
+M,Syria,Syria,MiddleSchool,G-07,A,Quran,F,Father,19,72,15,50,Yes,Good,Above-7,M
+M,Syria,Syria,lowerlevel,G-02,A,French,F,Father,24,35,18,31,No,Bad,Under-7,M
+M,Syria,Syria,lowerlevel,G-02,A,French,S,Father,27,20,33,35,No,Bad,Under-7,M
+F,Syria,Syria,MiddleSchool,G-07,A,Biology,F,Mum,96,95,70,70,Yes,Good,Under-7,H
+F,Syria,Syria,MiddleSchool,G-07,A,Biology,S,Mum,80,91,87,72,Yes,Good,Under-7,H

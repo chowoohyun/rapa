@@ -1,0 +1,5 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+F,Morocco,Morocco,lowerlevel,G-02,B,French,S,Mum,72,65,73,66,Yes,Good,Under-7,H
+M,Morocco,Morocco,MiddleSchool,G-08,A,Arabic,S,Mum,81,75,62,53,No,Bad,Under-7,M
+M,Morocco,Morocco,MiddleSchool,G-08,A,Arabic,S,Mum,53,75,72,23,No,Bad,Under-7,M
+M,Morocco,Morocco,MiddleSchool,G-08,B,Arabic,S,Father,27,15,42,53,No,Bad,Above-7,L

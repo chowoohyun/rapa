@@ -1,0 +1,10 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+F,Egypt,Egypt,MiddleSchool,G-07,A,IT,F,Father,45,54,26,90,Yes,Good,Under-7,M
+F,Egypt,Egypt,MiddleSchool,G-07,A,Quran,S,Mum,70,80,95,70,Yes,Good,Under-7,H
+M,Egypt,Egypt,MiddleSchool,G-07,B,Science,S,Mum,92,80,88,76,Yes,Good,Under-7,H
+M,Egypt,Egypt,MiddleSchool,G-07,B,Science,S,Father,72,80,58,86,Yes,Good,Under-7,M
+M,Egypt,KuwaIT,MiddleSchool,G-07,B,Science,S,Father,12,20,38,46,No,Bad,Above-7,M
+M,Egypt,Egypt,lowerlevel,G-04,A,English,S,Mum,19,74,32,17,No,Good,Above-7,L
+M,Egypt,Egypt,lowerlevel,G-04,A,Math,S,Mum,49,94,42,7,No,Bad,Above-7,M
+M,Egypt,Egypt,lowerlevel,G-02,B,French,F,Mum,5,13,6,6,No,Good,Above-7,L
+M,Egypt,Egypt,lowerlevel,G-02,B,French,S,Mum,7,9,11,10,No,Good,Above-7,L

@@ -1,0 +1,5 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+M,KW,KuwaIT,HighSchool,G-10,A,IT,F,Father,50,70,32,40,Yes,Good,Under-7,M
+M,venzuela,venzuela,HighSchool,G-10,A,IT,F,Mum,80,90,70,80,Yes,Good,Under-7,H
+M,KW,KuwaIT,HighSchool,G-10,A,IT,F,Father,17,13,16,12,Yes,Bad,Under-7,M
+M,KW,KuwaIT,HighSchool,G-10,A,IT,F,Father,0,5,7,2,No,Bad,Above-7,L

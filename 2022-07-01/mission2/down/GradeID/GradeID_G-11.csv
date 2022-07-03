@@ -1,0 +1,14 @@
+gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+F,KW,KuwaIT,HighSchool,G-11,A,Science,F,Mum,49,70,19,75,Yes,Good,Under-7,H
+M,KW,KuwaIT,HighSchool,G-11,A,Quran,F,Father,13,3,11,9,No,Bad,Above-7,L
+F,KW,USA,HighSchool,G-11,A,Quran,S,Mum,70,80,95,70,Yes,Good,Under-7,H
+F,KW,USA,HighSchool,G-11,A,Quran,F,Mum,60,80,50,40,No,Bad,Under-7,M
+M,SaudiArabia,SaudiArabia,HighSchool,G-11,A,Quran,S,Father,80,80,51,59,Yes,Good,Under-7,H
+M,SaudiArabia,USA,HighSchool,G-11,A,Science,S,Father,23,63,71,89,Yes,Good,Under-7,M
+F,SaudiArabia,USA,HighSchool,G-11,B,Science,S,Father,100,91,98,40,Yes,Bad,Under-7,H
+M,SaudiArabia,USA,HighSchool,G-11,B,Spanish,S,Father,10,51,40,40,No,Bad,Above-7,L
+M,SaudiArabia,USA,HighSchool,G-11,B,English,S,Father,70,50,33,41,No,Bad,Above-7,M
+M,SaudiArabia,USA,HighSchool,G-11,B,Math,S,Father,70,58,73,91,Yes,Bad,Under-7,H
+F,Tunis,USA,HighSchool,G-11,B,French,S,Father,70,50,30,49,Yes,Good,Under-7,M
+M,Tunis,Tunis,HighSchool,G-11,B,Science,S,Father,70,50,33,40,No,Good,Under-7,M
+M,KW,KuwaIT,HighSchool,G-11,B,Math,S,Mum,73,84,77,81,Yes,Good,Above-7,H
